@@ -1,0 +1,6 @@
+
+hessuin|01024343|50|h@gmail.com|fayoum|farmer
+harbi|010003345|55|h3@gmail.com|gizza|driver
+gmal|01032355|60|g6@gmail.com|cairo|engineer
+moussa|0124354|20|mo@gmail.com|menia|student
+ahmed|01523748|32|ah@gmail.com|banha|doctor

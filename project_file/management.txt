@@ -1,0 +1,6 @@
+
+Nasser|011002842|30|n1@gmail.com|elfayoum|engineer
+radwn|01149566|27|r12@gmail.com|helwan|lawyer
+mahmoud|01159281|33|m5@gmail.com|gizza|doctor
+ali|011426529|40|a6@gmail.com|October|H.R
+hady|010332940|44|h2@gmail.com|cairo|manager
